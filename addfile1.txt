@@ -1,1 +1,3 @@
 addfile1
+addfile2
+addfile3
